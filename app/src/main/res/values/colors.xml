@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#A9A9A9</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="DarkOliveGreen">#556B2F</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="Peru">#CD853F</color>
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="colorAccent">#03DAC5</color>
+</resources>
